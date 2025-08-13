@@ -1,0 +1,2 @@
+# Random-Forest-for-Urban-Expansion-Prediction-Simulation
+The main objective is to develop a hybrid model of Cellular Automata and Random Forest (RF) to simulate urban expansion, using classified Landsat images, the model incorporated driving factors that influence urban expansion to determine the RF regression, and from this, obtain the transition potential of all pixels to become urban after a period
